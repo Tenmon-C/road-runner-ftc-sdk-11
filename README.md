@@ -1,6 +1,6 @@
 ## NOTICE
 
-This repository is updated for the Decode (2025-2026) game; however could be faulty, so I would recommend the original version with updates to into the deep
+This repository is updated for the Decode (2025-2026) game; however could be faulty, so I would recommend the original version with updates to into the deep. Here is the URL for the project I grabbed the code from: https://github.com/acmerobotics/road-runner-ftc
 
 
 ## Welcome!
