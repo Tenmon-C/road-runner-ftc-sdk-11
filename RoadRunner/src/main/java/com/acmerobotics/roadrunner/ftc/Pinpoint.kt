@@ -78,6 +78,7 @@ class PinpointIMU(val pinpoint: PinpointView) : IMU, LazyImu {
         throw NotImplementedError()
     }
 
+    // AngularScalarTuner uses this, but Pinpoint doesn't need it
     override fun getRobotYawPitchRollAngles(): YawPitchRollAngles {
         throw NotImplementedError()
     }
